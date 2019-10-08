@@ -8,6 +8,15 @@ const response = [{
         copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
+        name: 'Feed wildlife at Estes Park, Colorado',
+        image: 'chipmunkMtn.jpg',
+        dateFrom: 'June 18th 2019',
+        dateTo: 'June 20th 2019',
+        guests: 5,
+        category: 'family',
+        copy: 'Feed chipmunks at the top of Chipmunk Mountain at Estes Park, Colorado'
+    },
+    {
         name: 'Relax in Maui',
         image: 'bali.jpg',
         dateFrom: 'Oct 25th 2019',
